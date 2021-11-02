@@ -1,0 +1,41 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  background: url(images/body-bg.svg);
+}
+
+.title {
+  background-color: #0a146e;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+.main_box {
+  border-radius: 8px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgb(35 55 80 / 30%) 0px 6px 12px;
+  max-width: 1200px;
+}
+
+.converter_box {
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.convert_Btn {
+  background-color: #0a146e;
+}
+.convert_Btn:hover {
+  background-color: #474fa0;
+}
+
+/* .button_container {
+  top: 180px;
+  position: absolute;
+  width: 94%;
+} */
